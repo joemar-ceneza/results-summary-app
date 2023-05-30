@@ -9,7 +9,9 @@ export default function Result() {
                 </div>
             </div>
             <h2 className="font-semibold text-2xl ">great</h2>
-            <p className="text-xs tracking-wider leading-5 text-gray-300 normal-case my-3 px-4">You scored higher than 65% of the people who have taken these tests.</p>
+            <p className="text-xs tracking-wider leading-5 text-gray-300 normal-case my-3 px-4">
+                You scored higher than 65% of the people who have taken these tests.
+            </p>
         </div>
     );
 }
